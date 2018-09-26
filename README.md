@@ -24,7 +24,7 @@ Add all changes to the Edit-branch.
 ```
 Git Command:
 $ git add -A
-This will change to the branch called: Edit.
+This add all changes to the Edit-branch
 ```
 Commit all changes to the Edit-branch.
 ```
