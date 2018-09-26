@@ -32,11 +32,17 @@ Git Command:
 $ git commit -m "Comment"
 This will commit changes to the Edit-branch.
 ```
-Push the new branch to remote repository on GitHub.
+Push the new Edit-branch to remote repository on GitHub.
 ```
 Git Command:
 $ git push origin Edit
-This will push the local Edit branch to the remote repository on GitHub. 
+This will push the local Edit-branch to the remote repository on GitHub. 
+```
+Pull the Edit-branch from the remote repository on GitHub. 
+```
+Git Command:
+$ git pull origin Edit
+This will pull the remote Edit-branch from GitHub to the local repository. 
 ```
 Merge the Edit-branch with the master-branch.
 ```
