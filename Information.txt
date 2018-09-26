@@ -1,2 +1,4 @@
 Welcome to the main branch. This is just a text file to illustrate
 how to use branching.
+This is the Edit-branch. All of this has been made in the Edit-branch.
+How do we merge this with the master-branch?
