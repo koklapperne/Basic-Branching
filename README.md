@@ -48,7 +48,7 @@ Merge the Edit-branch with the master-branch.
 ```
 Git Command:
 $ git checkout master
-change to master-branch
+This will change to master-branch
 $ git merge Edit
 This will merge the local master-branch and the local Edit-branch.  
 ```
