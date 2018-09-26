@@ -46,4 +46,4 @@ change to master-branch
 $ git merge Edit
 This will merge the local master-branch and the local Edit-branch.  
 ```
-Please note: This demonstrates basic branch operations on how to create a new branch of the master. Make changes to the new branch ONLY and merge it with the master
+Please note: This demonstrates basic branch operations on how to create a new branch of the master. Make changes to the new branch ONLY and merge it with the master.
